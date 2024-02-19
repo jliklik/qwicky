@@ -33,6 +33,10 @@ Hmmm RMII needs 50Mhz
 - But geez this is hard to solder
 - LAN8740 (32 pin VQFN)
 
+LAN8720:
+- https://electronics.stackexchange.com/questions/350088/stm32f407-lan8720a-lwip-freertos-no-received-ethernet-frames
+- https://pcbartists.com/design/embedded/esp32-ethernet-phy-schematic-design/
+
 TODO:
 - add ethernet/PHY chip
 - add GPIO for keyboard switches
