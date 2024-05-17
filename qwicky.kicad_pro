@@ -330,6 +330,10 @@
     [
       "85332de3-66bd-4ad2-9886-d60c08a37603",
       "Ethernet"
+    ],
+    [
+      "4a604736-5d58-45c9-98f2-6483ddc751d5",
+      "Display"
     ]
   ],
   "text_variables": {}

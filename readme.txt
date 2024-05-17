@@ -37,6 +37,10 @@ LAN8720:
 - https://electronics.stackexchange.com/questions/350088/stm32f407-lan8720a-lwip-freertos-no-received-ethernet-frames
 - https://pcbartists.com/design/embedded/esp32-ethernet-phy-schematic-design/
 
+Display:
+- https://www.digikey.ca/en/products/detail/sharp-microelectronics/LS013B7DH03/5300387
+- https://www.digikey.ca/en/products/detail/adafruit-industries-llc/3502/7386264 (Adafruit version of SHARP, twice as expensive :< )
+
 TODO:
 - add ethernet/PHY chip
 - add GPIO for keyboard switches
