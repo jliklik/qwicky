@@ -41,5 +41,12 @@ Display:
 - https://www.digikey.ca/en/products/detail/sharp-microelectronics/LS013B7DH03/5300387
 - https://www.digikey.ca/en/products/detail/adafruit-industries-llc/3502/7386264 (Adafruit version of SHARP, twice as expensive :< )
 
+Keyboard:
+- 2 options: matrix or resistor ladder for multiplexing keys
+- https://electronics.stackexchange.com/questions/512761/resistor-keyboard-vs-matrix-keyboard
+- https://github.com/qmk/qmk_firmware/blob/master/docs/how_a_matrix_works.md 
+
+
+
 TODO:
 - add GPIO for keyboard switches
